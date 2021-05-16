@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3Xpl0it3r&layout=compact)](https://github.com/3Xpl0it3r/3Xpl0it3r)
+
 <!--START_SECTION:waka-->
 ```text
 Go         23 hrs 29 mins  ████████████████████▒░░░░   80.69 % 
