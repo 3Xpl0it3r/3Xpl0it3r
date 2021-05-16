@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+```text
+Go         23 hrs 29 mins  ████████████████████▒░░░░   80.69 % 
+Markdown   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+YAML       1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+Bash       57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Rust       53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+```
 <!--END_SECTION:waka-->
