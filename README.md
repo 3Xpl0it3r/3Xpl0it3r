@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           14 hrs 53 mins  ████████████████████░░░░░   79.83 % 
-Bash         2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Python       50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Git Config   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Go       14 hrs 4 mins   ███████████████████▓░░░░░   78.33 % 
+Bash     2 hrs 23 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+Python   50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+Docker   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other    12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
