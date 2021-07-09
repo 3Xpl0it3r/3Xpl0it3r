@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go      10 hrs 26 mins  ███████████████████████▓░   95.13 % 
-GAS     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
-Text    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-Other   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Go           8 hrs 59 mins   ███████████████████████▓░   94.62 % 
+GAS          24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
