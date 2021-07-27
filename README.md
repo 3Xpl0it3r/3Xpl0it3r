@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go           17 hrs 38 mins  █████████████████████▓░░░   86.68 % 
-YAML         1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Other        25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-VimL         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-JavaScript   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Go           13 hrs 25 mins  █████████████████████░░░░   84.05 % 
+YAML         1 hr 49 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Other        20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+VimL         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 ```
 <!--END_SECTION:waka-->
