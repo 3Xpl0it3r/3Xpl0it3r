@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go         28 hrs 33 mins  ████████████████████████▒   96.82 % 
-Python     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Go       36 hrs 2 mins   ████████████████████████▒   97.45 % 
+Python   41 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+VimL     14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 ```
 <!--END_SECTION:waka-->
