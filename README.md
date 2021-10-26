@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go         7 hrs 21 mins   █████████████████▒░░░░░░░   69.85 % 
-Markdown   2 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 % 
-YAML       27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Other      18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Go     4 hrs 9 mins    ██████████████████████▓░░   90.06 % 
+YAML   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
 ```
 <!--END_SECTION:waka-->
