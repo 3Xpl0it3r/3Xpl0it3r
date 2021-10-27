@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go     4 hrs 9 mins    ██████████████████████▓░░   90.06 % 
-YAML   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Go           1 hr 46 mins    ████████████████████░░░░░   79.46 % 
+YAML         27 mins         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 ```
 <!--END_SECTION:waka-->
