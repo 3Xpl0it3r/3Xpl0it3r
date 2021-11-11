@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go      2 hrs 1 min     ████████████████████████▒   96.97 % 
-YAML    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Bash    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Go      48 mins         █████████████████████████   99.37 % 
 ```
 <!--END_SECTION:waka-->
