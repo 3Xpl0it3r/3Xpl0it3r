@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Go         2 hrs 3 mins    █████████████████████████   99.34 % 
 ```
 <!--END_SECTION:waka-->
