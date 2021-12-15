@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go             14 hrs 15 mins  █████████████████▓░░░░░░░   70.82 % 
-Bash           4 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.24 % 
-Shell Script   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Docker         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-Other          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Go             17 hrs 27 mins  ██████████████████░░░░░░░   71.43 % 
+Bash           4 hrs 54 mins   █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Shell Script   55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+go.mod         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Docker         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 ```
 <!--END_SECTION:waka-->
