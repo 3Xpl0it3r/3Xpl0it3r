@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Go         9 hrs 28 mins   ██████████░░░░░░░░░░░░░░░   39.60 % 
-Markdown   4 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Rust       4 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 % 
-C          2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-Docker     47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Go         8 hrs 37 mins   ██████████░░░░░░░░░░░░░░░   39.56 % 
+Markdown   4 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Rust       4 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+C          2 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+YAML       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 ```
 <!--END_SECTION:waka-->
