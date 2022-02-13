@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown         3 hrs 53 mins   █████████████████▓░░░░░░░   70.86 % 
-Rust             49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-Go               36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-VimL             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Markdown         8 hrs 40 mins   ████████████████████░░░░░   79.84 % 
+Go               1 hr 11 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Rust             49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+VimL             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
 ```
 <!--END_SECTION:waka-->
