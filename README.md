@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
+Total: 10 hrs 1 min
+
 Markdown   8 hrs 39 mins   █████████████████████▓░░░   86.34 % 
 Go         1 hr 10 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
 Rust       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
