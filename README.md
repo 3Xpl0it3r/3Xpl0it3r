@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 13 hrs 49 mins
+Total: 12 hrs 5 mins
 
-Markdown         10 hrs 34 mins  ███████████████████░░░░░░   75.52 % 
-Go               2 hrs 55 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.93 % 
-Other            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-conf             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-ca65 assembler   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Markdown   7 hrs 54 mins   ████████████████░░░░░░░░░   64.52 % 
+Go         3 hrs 46 mins   ███████▓░░░░░░░░░░░░░░░░░   30.81 % 
+Other      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Text       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+conf       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 <!--END_SECTION:waka-->
