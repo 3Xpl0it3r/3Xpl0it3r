@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                   14 hrs 18 mins  ██████████████████▒░░░░░░   73.44 %
-Markdown             4 hrs 16 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.96 %
-ca65 assembler       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-YAML                 9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-C                    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-x86 Plan9 Assembly   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Go                   10 hrs 17 mins  ██████████████████████░░░   88.26 %
+Markdown             33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+ca65 assembler       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+YAML                 8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+C                    7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+x86 Plan9 Assembly   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
