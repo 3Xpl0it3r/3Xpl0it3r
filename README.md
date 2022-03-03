@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go                   4 hrs 6 mins    ████████████████████████░   96.61 %
-ca65 assembler       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-x86 Plan9 Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
