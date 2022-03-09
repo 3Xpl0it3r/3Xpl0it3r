@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C                8 mins          █████████████████░░░░░░░░   68.58 %
+ObjectiveC       3 mins          ███████░░░░░░░░░░░░░░░░░░   27.46 %
+GitIgnore file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
 ```
 
 <!--END_SECTION:waka-->
