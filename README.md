@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C                4 hrs 11 mins   ██████████████▒░░░░░░░░░░   57.58 %
-C++              1 hr 35 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.98 %
-ObjectiveC       1 hr 22 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-CMake            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Rust             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+C            4 hrs 11 mins   ███████████████████░░░░░░   76.16 %
+ObjectiveC   1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+Rust         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
