@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C            4 hrs 11 mins   ███████████████████░░░░░░   76.16 %
-ObjectiveC   1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.43 %
-Rust         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-Assembly     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Rust   1 min           █████████████████████▓░░░   86.15 %
+C      0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
 ```
 
 <!--END_SECTION:waka-->
