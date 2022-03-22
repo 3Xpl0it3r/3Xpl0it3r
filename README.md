@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust   38 mins         █████████████████████████   99.56 %
-C      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Rust   37 mins         ███████████████████████▒░   92.71 %
+Go     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
 ```
 
 <!--END_SECTION:waka-->
