@@ -21,8 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust   37 mins         ███████████████████████▒░   92.71 %
-Go     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+C                1 hr 30 mins    ████████████░░░░░░░░░░░░░   47.63 %
+ObjectiveC       54 mins         ███████░░░░░░░░░░░░░░░░░░   28.60 %
+Rust             37 mins         █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+Assembly         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Go               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
