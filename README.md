@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C                1 hr 30 mins    ██████████████▓░░░░░░░░░░   59.31 %
-ObjectiveC       54 mins         █████████░░░░░░░░░░░░░░░░   35.61 %
-Assembly         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-Go               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+C                1 hr 30 mins    ███████████████░░░░░░░░░░   60.48 %
+ObjectiveC       54 mins         █████████░░░░░░░░░░░░░░░░   36.31 %
+Assembly         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
