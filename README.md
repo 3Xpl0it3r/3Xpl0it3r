@@ -21,12 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-C                1 hr 30 mins    ███████████████░░░░░░░░░░   60.48 %
-ObjectiveC       54 mins         █████████░░░░░░░░░░░░░░░░   36.31 %
-Assembly         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
