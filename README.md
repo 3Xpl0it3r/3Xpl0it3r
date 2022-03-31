@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+ObjectiveC   3 mins          ████████████▓░░░░░░░░░░░░   50.11 %
+Go           3 mins          ████████████▒░░░░░░░░░░░░   49.89 %
+Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
