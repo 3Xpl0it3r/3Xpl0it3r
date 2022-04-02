@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-ObjectiveC   3 mins          ████████████▓░░░░░░░░░░░░   50.11 %
-Go           3 mins          ████████████▒░░░░░░░░░░░░   49.89 %
-Python       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Rust             4 mins          █████████▒░░░░░░░░░░░░░░░   37.86 %
+ObjectiveC       3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.32 %
+Go               3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.18 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
