@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust             4 mins          █████████▒░░░░░░░░░░░░░░░   37.86 %
-ObjectiveC       3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.32 %
-Go               3 mins          ███████▓░░░░░░░░░░░░░░░░░   30.18 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Rust             3 hrs 31 mins   ████████████████████████░   96.32 %
+ObjectiveC       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Go               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
