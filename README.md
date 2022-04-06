@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust             3 hrs 31 mins   ████████████████████████░   96.32 %
-ObjectiveC       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-Go               3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Python           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Rust             9 hrs 15 mins   ████████████████████████▓   98.07 %
+ObjectiveC       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Go               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+TOML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
