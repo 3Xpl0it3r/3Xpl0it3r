@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust             9 hrs 15 mins   ████████████████████████▓   98.07 %
-ObjectiveC       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-Go               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Rust             9 hrs 15 mins   █████████████████████████   99.37 %
 TOML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
