@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust             17 hrs 29 mins  ████████████▓░░░░░░░░░░░░   51.11 %
-Go               16 hrs 8 mins   ███████████▓░░░░░░░░░░░░░   47.19 %
-Markdown         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
-GitIgnore file   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Python           8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Rust             22 hrs 18 mins  ███████████████▓░░░░░░░░░   62.85 %
+Go               12 hrs 25 mins  ████████▓░░░░░░░░░░░░░░░░   34.99 %
+Python           19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Markdown         13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+GitIgnore file   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 gitrebase        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
