@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lua    3 mins          ██████████████████▓░░░░░░   74.29 %
-Bash   1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
