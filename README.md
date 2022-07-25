@@ -21,7 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Lua          1 hr 23 mins    ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+conf         1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.77 %
+tmux         59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.53 %
+Python       26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+YAML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Other        11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
 ```
 
 <!--END_SECTION:waka-->
