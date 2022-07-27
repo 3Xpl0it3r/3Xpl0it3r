@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Lua          7 hrs 9 mins    ██████████████▒░░░░░░░░░░   56.91 %
-Go           1 hr 32 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-conf         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-tmux         59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Other        43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Lua          13 hrs 40 mins  ███████████████▓░░░░░░░░░   62.17 %
+Go           2 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.66 %
+Other        2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
 ```
 
 <!--END_SECTION:waka-->
