@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   9 hrs 53 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
-Lua        8 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-Go         7 hrs 13 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
-Other      2 hrs 12 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Lua        12 hrs 15 mins  █████████░░░░░░░░░░░░░░░░   35.91 %
+Markdown   11 hrs 43 mins  ████████▓░░░░░░░░░░░░░░░░   34.34 %
+Go         7 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 %
+Other      32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
