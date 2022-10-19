@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Markdown       18 hrs 55 mins  █████████▒░░░░░░░░░░░░░░░   37.91 %
-Lua            12 hrs 8 mins   ██████░░░░░░░░░░░░░░░░░░░   24.30 %
-Go             8 hrs 51 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-Rust           3 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-Docker         2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-YAML           52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Markdown       23 hrs 10 mins  ███████████▓░░░░░░░░░░░░░   46.23 %
+Lua            9 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Rust           6 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Go             4 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Docker         2 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Other          52 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
 ```
 
 <!--END_SECTION:waka-->
