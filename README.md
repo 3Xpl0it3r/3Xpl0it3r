@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust          17 hrs 13 mins  █████████████████▓░░░░░░░   71.22 %
-Objective-C   3 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.65 %
-Lua           2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 %
-YAML          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Other         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Rust          17 hrs 13 mins  ██████████████▒░░░░░░░░░░   57.22 %
+Markdown      4 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.54 %
+Objective-C   3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.96 %
+Lua           2 hrs 4 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+YAML          43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+C             25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
