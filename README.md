@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust          14 hrs 20 mins  ██████████▒░░░░░░░░░░░░░░   41.78 %
-Markdown      8 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.12 %
-Objective-C   3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Go            2 hrs 7 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-C             1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Lua           1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Rust          9 hrs 29 mins   ███████░░░░░░░░░░░░░░░░░░   27.72 %
+Markdown      8 hrs 16 mins   ██████░░░░░░░░░░░░░░░░░░░   24.17 %
+Go            5 hrs 1 min     ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 %
+Objective-C   3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+C             2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
+Lua           2 hrs 5 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
