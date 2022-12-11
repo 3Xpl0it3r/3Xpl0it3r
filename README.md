@@ -21,12 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go         19 hrs 30 mins  ███████████████░░░░░░░░░░   60.63 %
-Markdown   3 hrs 42 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.54 %
-C          2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Lua        1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-Docker     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-Bash       1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Go         19 hrs 30 mins  █████████████▒░░░░░░░░░░░   53.67 %
+Lua        5 hrs           ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Other      2 hrs 13 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
 ```
 
 <!--END_SECTION:waka-->
