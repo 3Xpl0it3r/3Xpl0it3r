@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go          18 hrs 44 mins  █████████████▓░░░░░░░░░░░   54.38 %
-Lua         9 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.26 %
-Other       2 hrs 24 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Go          19 hrs 19 mins  ████████████████░░░░░░░░░   63.83 %
+Lua         8 hrs 19 mins   ███████░░░░░░░░░░░░░░░░░░   27.50 %
+Python      38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
