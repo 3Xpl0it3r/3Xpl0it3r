@@ -21,12 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go         36 hrs 19 mins  ██████████████████░░░░░░░   72.53 %
-Markdown   12 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   24.47 %
-C          42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-Lua        27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
-Bash       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-conf       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Go         39 hrs 27 mins  ██████████████████░░░░░░░   71.75 %
+Markdown   12 hrs 28 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.69 %
+Other      1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
