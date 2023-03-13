@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go          31 hrs 54 mins  ████████████████████▒░░░░   81.59 %
-Rust        3 hrs 30 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-Other       1 hr 13 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
+Go          31 hrs 56 mins  ███████████████████▒░░░░░   77.79 %
+Rust        4 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
+Lua         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Other       1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 ```
 
 <!--END_SECTION:waka-->
