@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Rust       12 hrs 53 mins  █████████████████▒░░░░░░░   68.93 %
-Markdown   2 hrs 56 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.74 %
-Lua        1 hr 37 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-Other      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+Rust       16 hrs 48 mins  ████████████████████░░░░░   79.80 %
+Markdown   2 hrs 40 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.73 %
+Other      28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 ```
 
 <!--END_SECTION:waka-->
