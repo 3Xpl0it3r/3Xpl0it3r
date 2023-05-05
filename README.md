@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Go     9 hrs 23 mins   ████████████████████████░   96.28 %
-Lua    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-Bash   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Go     7 hrs 10 mins   ███████████████████████░░   92.41 %
+Lua    20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Bash   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+conf   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
