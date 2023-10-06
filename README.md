@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         42 mins         ███████████████▒░░░░░░░░░   61.53 %
-Markdown   25 mins         █████████▒░░░░░░░░░░░░░░░   37.55 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
