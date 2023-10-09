@@ -21,7 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Ezhil   6 mins          █████████████████████████   100.00 %
+Go               19 mins         █████████░░░░░░░░░░░░░░░░   35.60 %
+Bash             10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+Python           9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Markdown         9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
+Ezhil            6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
 ```
 
 <!--END_SECTION:waka-->
