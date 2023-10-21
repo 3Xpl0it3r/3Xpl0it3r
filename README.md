@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go               10 hrs 9 mins   ████████████████░░░░░░░░░   63.98 %
-Markdown         4 hrs 54 mins   ███████▓░░░░░░░░░░░░░░░░░   30.95 %
-Python           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Rust             14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Lua              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Go               11 hrs 5 mins   ████████████▓░░░░░░░░░░░░   50.52 %
+Markdown         4 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.12 %
+Lua              4 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.13 %
+Python           1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
