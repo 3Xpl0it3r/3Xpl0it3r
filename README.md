@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     20 mins         ████████████████████▒░░░░   81.05 %
-Other   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-Bash    2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-YAML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+Other   2 mins          ████████████▓░░░░░░░░░░░░   50.34 %
+Bash    2 mins          ██████████▓░░░░░░░░░░░░░░   42.07 %
+YAML    0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
 ```
 
 <!--END_SECTION:waka-->
