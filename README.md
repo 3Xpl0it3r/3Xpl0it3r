@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         40 hrs 7 mins   ██████████████████████▒░░   89.33 %
-Lua          1 hr 38 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-conf         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-TOML         1 hr 15 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-gitignore    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Rust         43 hrs 10 mins  ██████████████████████▓░░   90.12 %
+Lua          1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+conf         1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+TOML         1 hr 14 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+gitignore    7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
