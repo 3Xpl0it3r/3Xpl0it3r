@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust     40 hrs 38 mins  ███████████████████████▓░   94.66 %
-Bash     50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
-Other    35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-XML      13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-YAML     13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Rust                       41 hrs 4 mins   ████████████████████████░   95.63 %
+Bash                       38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Other                      35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+XML                        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Nginx configuration file   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
