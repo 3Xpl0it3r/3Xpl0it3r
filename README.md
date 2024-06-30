@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go          5 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-Rust        5 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-typst       3 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Bash        2 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Markdown    1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Rust       5 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.72 %
+typst      3 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
+Bash       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+TOML       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
+Markdown   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
 
 <!--END_SECTION:waka-->
