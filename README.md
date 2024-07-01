@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       5 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.72 %
-typst      3 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.83 %
-Bash       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.63 %
+Rust       5 hrs 8 mins    ██████████░░░░░░░░░░░░░░░   39.71 %
+typst      3 hrs 28 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
+Bash       1 hr 45 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
 TOML       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
 Markdown   40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
 ```
