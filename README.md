@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust    13 mins         ███████████████████▒░░░░░   77.14 %
-Go      3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
-Bash    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Rust    13 mins         ███████████████████▓░░░░░   78.41 %
+Go      3 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
