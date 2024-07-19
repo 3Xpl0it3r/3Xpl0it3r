@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   34 mins         █████████████████▒░░░░░░░   69.42 %
-Rust       13 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.05 %
-Bash       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
+Bash       42 mins         ███████████▒░░░░░░░░░░░░░   45.73 %
+Markdown   34 mins         █████████▒░░░░░░░░░░░░░░░   37.56 %
+YAML       15 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
