@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go         3 hrs 21 mins   ██████████████████░░░░░░░   71.92 %
-Markdown   56 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Lua        20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
-Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Go         1 hr 54 mins    ███████████████▒░░░░░░░░░   61.19 %
+SQL        36 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.29 %
+Markdown   35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.82 %
+Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
