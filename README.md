@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    2 mins          ████████████▒░░░░░░░░░░░░   49.59 %
-Bash   1 min           ███████▒░░░░░░░░░░░░░░░░░   29.67 %
-Go     0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.73 %
+Bash   1 min           ██████████████▓░░░░░░░░░░   58.87 %
+Go     0 secs          ██████████▒░░░░░░░░░░░░░░   41.13 %
 ```
 
 <!--END_SECTION:waka-->
