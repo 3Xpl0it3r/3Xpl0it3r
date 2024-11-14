@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go     0 secs          ███████████████▓░░░░░░░░░   62.20 %
-Bash   0 secs          █████████▒░░░░░░░░░░░░░░░   37.80 %
+Bash   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
