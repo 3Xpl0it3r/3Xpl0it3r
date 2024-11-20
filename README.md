@@ -21,9 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      28 mins         ████████████████████████▓   99.31 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Go         49 mins         ██████████▓░░░░░░░░░░░░░░   42.37 %
+Other      37 mins         ████████░░░░░░░░░░░░░░░░░   32.10 %
+Markdown   22 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
+C          7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+Bash       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
