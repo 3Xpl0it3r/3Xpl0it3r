@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-conf         19 mins         ███████████▒░░░░░░░░░░░░░   45.75 %
-Other        11 mins         ███████░░░░░░░░░░░░░░░░░░   27.88 %
-Bash         8 mins          █████░░░░░░░░░░░░░░░░░░░░   20.25 %
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-Python       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+Bash         9 mins          ████████████████▓░░░░░░░░   66.50 %
+JavaScript   2 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.59 %
+conf         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
+Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
+Python       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
