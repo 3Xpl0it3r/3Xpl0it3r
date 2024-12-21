@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown      3 hrs 3 mins    █████████████████████▒░░░   84.70 %
-Go            18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
-Objective-C   10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-JavaScript    4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-Lua           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Markdown      3 hrs 18 mins   ████████████████████▓░░░░   83.03 %
+Go            18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+C             11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
+Objective-C   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Lua           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
