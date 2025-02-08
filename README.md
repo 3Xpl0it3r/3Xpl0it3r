@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C      1 hr 34 mins    ████████████████████████░   96.18 %
-Bash   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+C      1 hr 34 mins    ███████████████████████▓░   94.94 %
+Bash   4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
 Rust   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
