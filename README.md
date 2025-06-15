@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C             5 hrs 26 mins   ██████████▓░░░░░░░░░░░░░░   42.66 %
-Rust          3 hrs 55 mins   ███████▓░░░░░░░░░░░░░░░░░   30.68 %
-Markdown      3 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.86 %
-Lua           8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Bash          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Rust          10 hrs 57 mins  ████████████░░░░░░░░░░░░░   48.41 %
+C             6 hrs 35 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+Markdown      3 hrs 9 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Objective-C   1 hr 14 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Bash          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
