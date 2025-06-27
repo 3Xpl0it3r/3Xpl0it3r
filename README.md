@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Objective-C   21 hrs 15 mins  ██████████████████▓░░░░░░   74.50 %
-C             6 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.88 %
-Rust          41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
-Markdown      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Python        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Objective-C   17 hrs 4 mins   █████████████████▓░░░░░░░   70.41 %
+C             5 hrs 58 mins   ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+Rust          32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Go            12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Markdown      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
