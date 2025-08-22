@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C      3 hrs 56 mins   ████████████▓░░░░░░░░░░░░   51.33 %
-Rust   3 hrs 23 mins   ███████████░░░░░░░░░░░░░░   44.13 %
-Go     18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-YAML   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Rust   3 hrs 22 mins   ██████████████░░░░░░░░░░░   56.06 %
+C      2 hrs 20 mins   █████████▓░░░░░░░░░░░░░░░   38.81 %
+Go     18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
 ```
 
 <!--END_SECTION:waka-->
