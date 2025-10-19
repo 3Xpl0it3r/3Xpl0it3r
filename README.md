@@ -21,9 +21,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go      55 mins         ███████████████▓░░░░░░░░░   62.98 %
-Other   17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-Bash    15 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.19 %
+Other   44 mins         ██████████████████▓░░░░░░   74.71 %
+Bash    15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.29 %
 ```
 
 <!--END_SECTION:waka-->
