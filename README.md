@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Go          31 hrs 22 mins  ████████████████████████░   95.70 %
-Markdown    53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-YAML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Bash        9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-gitignore   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Go          26 hrs 33 mins  ███████████████████████▓░   95.07 %
+Markdown    54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+YAML        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Bash        6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+gitignore   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
