@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua         32 mins         ██████████████▒░░░░░░░░░░   57.55 %
+JSON        20 mins         █████████▒░░░░░░░░░░░░░░░   37.33 %
+gitignore   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
+CSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
