@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Lua         32 mins         ██████████████▒░░░░░░░░░░   57.55 %
-JSON        20 mins         █████████▒░░░░░░░░░░░░░░░   37.33 %
-gitignore   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-CSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JSON        38 mins         ██████████▒░░░░░░░░░░░░░░   41.05 %
+Lua         32 mins         █████████░░░░░░░░░░░░░░░░   35.40 %
+Markdown    18 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
+gitignore   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
