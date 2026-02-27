@@ -21,7 +21,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Rust   59 mins               ████████████████████████▓   98.67 %
+JSON   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Go     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+C      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
