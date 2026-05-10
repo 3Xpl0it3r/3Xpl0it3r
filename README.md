@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3Xpl0it3r&layout=compact)](https://github.com/3Xpl0it3r/3Xpl0it3r)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=3Xpl0it3r&layout=compact&theme=tokyonight)
 
 <!--START_SECTION:waka-->
 
