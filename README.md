@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       3 hrs 35 mins         ███████████████▒░░░░░░░░░   61.31 %
-Bash       1 hr 52 mins          ████████░░░░░░░░░░░░░░░░░   32.11 %
-TOML       17 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Markdown   5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Rust       1 hr 40 mins          ████████████████████▒░░░░   81.39 %
+TOML       17 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.82 %
+Markdown   5 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
 
 <!--END_SECTION:waka-->
